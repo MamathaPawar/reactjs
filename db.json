@@ -1,0 +1,68 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "releaseDate": "1994-09-23",
+      "platform": "Netflix",
+      "type": "movie"
+    },
+    {
+      "id": 2,
+      "title": "The Dark Knight",
+      "genre": "Action, Crime, Drama",
+      "releaseDate": "2008-07-18",
+      "platform": "HBO Max",
+      "type": "movie"
+    },
+    {
+      "id": 3,
+      "title": "The Godfather",
+      "genre": "Crime, Drama",
+      "releaseDate": "1972-03-24",
+      "platform": "Amazon Prime Video",
+      "type": "movie"
+    },
+    {
+      "id": 4,
+      "title": "Pulp Fiction",
+      "genre": "Crime, Drama",
+      "releaseDate": "1994-10-14",
+      "platform": "Hulu",
+      "type": "movie"
+    }
+  ],
+  "shows": [
+    {
+      "id": 1,
+      "title": "Breaking Bad",
+      "genre": "Crime, Drama, Thriller",
+      "releaseDate": "2008-01-20",
+      "platform": "Netflix",
+      "type": "show",
+      "seasons": 5,
+      "episodes": 62
+    },
+    {
+      "id": 2,
+      "title": "Stranger Things",
+      "genre": "Drama, Fantasy, Horror",
+      "releaseDate": "2016-07-15",
+      "platform": "Netflix",
+      "type": "show",
+      "seasons": 4,
+      "episodes": 25
+    },
+    {
+      "id": 3,
+      "title": "Game of Thrones",
+      "genre": "Action, Adventure, Drama",
+      "releaseDate": "2011-04-17",
+      "platform": "HBO Max",
+      "type": "show",
+      "seasons": 8,
+      "episodes": 73
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Movie Name 1",
+      "genre": "Action",
+      "release_date": "2022-01-01",
+      "director": "Director Name",
+      "cast": "Cast Names",
+      "synopsis": "Movie synopsis goes here"
+    },
+    {
+      "id": 2,
+      "name": "Movie Name 2",
+      "genre": "Comedy",
+      "release_date": "2022-02-01",
+      "director": "Director Name",
+      "cast": "Cast Names",
+      "synopsis": "Movie synopsis goes here"
+    }
+  ],
+  "shows": [
+    {
+      "id": 1,
+      "name": "Show Name 1",
+      "genre": "Drama",
+      "release_date": "2022-01-01",
+      "director": "Director Name",
+      "cast": "Cast Names",
+      "synopsis": "Show synopsis goes here"
+    },
+    {
+      "id": 2,
+      "name": "Show Name 2",
+      "genre": "Comedy",
+      "release_date": "2022-02-01",
+      "director": "Director Name",
+      "cast": "Cast Names",
+      "synopsis": "Show synopsis goes here"
+    }
+  ]
+}
